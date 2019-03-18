@@ -1,13 +1,15 @@
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Page Title</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="main.js"></script>
-</head>
-<body>
-  <h1>Hi <%= @name %></h1>
-  <div>
-    <img style="border: 3px dashed red" src="http://bit.ly/1eze8aE">
-  </div>
-</body>
+<% if @name %>
+<h1>Hi <%= @name %></h1>
+<% end %>
+<div>
+  <form action="/named-cat">
+    <div style='padding-top: 30px; padding-bottom: 30px'>
+      <input type="text" name="name">
+      <input type="submit" value="Submit">
+    </div>
+  </form>
+</div>
+
+<div>
+  <img style="border: 3px dashed red" src="http://bit.ly/1eze8aE">
+</div>
