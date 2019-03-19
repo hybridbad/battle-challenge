@@ -1,7 +1,26 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/jdmac/Dropbox/MakersAcademy/week3/battle-challenge/spec/features/player_names_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/jdmac/Dropbox/MakersAcademy/week3/battle-challenge/spec/features/testing_infrastructure_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ]
     },
-    "timestamp": 1553008663
+    "timestamp": 1553020044
   }
 }

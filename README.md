@@ -2,7 +2,7 @@
 ### Gem files used in project
 * rspec
 * sinatra
-* rspec-sinatra
+* rspec
 * capybara
 * selenium-webdriver
 * shotgun
