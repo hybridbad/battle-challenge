@@ -8,6 +8,13 @@
         1,
         1,
         null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/jdmac/Dropbox/MakersAcademy/week3/battle-challenge/spec/features/hit_points_spec.rb": [
@@ -38,6 +45,7 @@
         1,
         null,
         1,
+        5,
         2,
         null,
         1,
@@ -45,19 +53,28 @@
         1,
         null,
         null,
-        null
-      ],
-      "/Users/jdmac/Dropbox/MakersAcademy/week3/battle-challenge/lib/player.rb": [
+        null,
+        1,
         1,
         1,
         null,
+        null,
+        null,
         1,
-        7,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        4,
         null,
         null,
         null
       ]
     },
-    "timestamp": 1553455224
+    "timestamp": 1553457166
   }
 }
