@@ -5,15 +5,16 @@
         1,
         1,
         1,
-        1,
-        1,
+        0,
+        0,
+        0,
         null,
         null,
         1,
         1,
-        1,
-        1,
-        1,
+        0,
+        0,
+        0,
         null,
         null
       ],
@@ -21,7 +22,7 @@
         1,
         1,
         1,
-        1,
+        0,
         null,
         null
       ],
@@ -29,7 +30,7 @@
         1,
         1,
         1,
-        1,
+        0,
         null,
         null
       ],
@@ -38,6 +39,34 @@
         1,
         1,
         1,
+        null,
+        null
+      ],
+      "/Users/jdmac/Dropbox/MakersAcademy/week3/battle-challenge/spec/game_spec.rb": [
+        1,
+        null,
+        1,
+        4,
+        4,
+        4,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
         null,
         null
       ],
@@ -75,6 +104,6 @@
         null
       ]
     },
-    "timestamp": 1553457166
+    "timestamp": 1553466679
   }
 }
